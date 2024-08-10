@@ -1,3 +1,3 @@
-# Lighthouse at Night | HTML +  CSS + ParallaxJS
+# Lighthouse Timer
 
-https://computerwiz541.github.io/Lighthouse-Wallpaper/dist/index.html
+https://computerwiz541.github.io/Lighthouse-Timer/
