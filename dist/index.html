@@ -307,9 +307,9 @@
   function startTimer() {
     clearInterval(timerInterval);
     document.getElementById("my_audio").play();
-    document.documentElement.requestFullscreen().catch(error => {
-            console.error('Error entering fullscreen mode:', error);
-        });
+    //document.documentElement.requestFullscreen().catch(error => {
+            //console.error('Error entering fullscreen mode:', error);
+        //});
     const minutes = parseInt(document.getElementById('minutesInput').value) || 0;
     const seconds = parseInt(document.getElementById('secondsInput').value) || 0;
     let time = minutes * 60 + seconds;
